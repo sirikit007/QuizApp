@@ -6,7 +6,23 @@
 			<div class="w-full max-w-xl">
 				<h1 class="text-5xl font-bold text-center text-indigo-700">Simple Quize</h1>
 				<div class="bg-white p-12 rounded-lg shadow-lg w-full mt-8">
-					<p class="text-2xl font-bold"></p>
+					<p class="text-2xl font-bold">Here comes our question</p>
+					<label for="a" class="block mt-4 border border-gray-300 rounded-lg py-2 px-6 text-lg">
+						<input type="radio" class="hidden"/>
+						Option 1
+					</label>
+					<label for="a" class="block mt-4 border border-gray-300 rounded-lg py-2 px-6 text-lg">
+						<input type="radio" class="hidden"/>
+						Option 2
+					</label>
+					<label for="a" class="block mt-4 border border-gray-300 rounded-lg py-2 px-6 text-lg">
+						<input type="radio" class="hidden"/>
+						Option 3
+					</label>
+					<label for="a" class="block mt-4 border border-gray-300 rounded-lg py-2 px-6 text-lg">
+						<input type="radio" class="hidden"/>
+						Option 4
+					</label>
 				</div>
 			</div>
 		</div>
